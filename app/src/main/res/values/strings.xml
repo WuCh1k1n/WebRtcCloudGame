@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebRtcCloudGame</string>
+    <string name="signaling_addr">your signaling server address</string>
+    <string name="stun_addr">stun:stun.l.google.com:19302</string>
+</resources>
